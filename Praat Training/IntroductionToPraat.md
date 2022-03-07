@@ -2,16 +2,20 @@
 
 ##Basic Training
 
-On the right, are some short Video Guides on the basic of using Praat. They cover:
+On the right, are some short Video Guides on the basic of using Praat.
+They cover:
 
-    A. Opening, viewing, and removing files.
-    B. Creating and using TextGrids for annotation
-    B2. Getting rid of the IPA chart in the Editor window.
-    C.  Measuring duration.
-    D. Measuring formants visually.
-    E. Estimating fundamental frequency (f0).
-    F. Segmenting an utterance.
-    G. Saving your work!
+- Opening, viewing, and removing files.
+- Creating and using TextGrids for annotation.
+- Getting rid of the IPA chart in the Editor window.
+-  Measuring duration.
+- Measuring formants visually.
+- Estimating fundamental frequency (f0).
+- Segmenting an utterance.
+- Saving your work!
+
+https://github.com/AERodgers/Phonetics-Teaching-Resources/blob/main/Praat%20Training/Praat%20Intro%20Video%20Guide/A%20opening%20viewing%20and%20removing%20sounds.mp4
+
 
 ##Test yourself
 
