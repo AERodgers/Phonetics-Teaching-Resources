@@ -1,8 +1,9 @@
 # Introduction to Praat
 
-##Basic Training
+## Basic Training
 
-On the right, are some short Video Guides on the basic of using Praat.
+You can watch the introductory videos [here](https://youtube.com/playlist?list=PLHzMQKGE5SrlnvrcS2hNxU9ykaW74X67l).
+
 They cover:
 
 - Opening, viewing, and removing files.
@@ -14,12 +15,11 @@ They cover:
 - Segmenting an utterance.
 - Saving your work!
 
-https://github.com/AERodgers/Phonetics-Teaching-Resources/blob/main/Praat%20Training/Praat%20Intro%20Video%20Guide/A%20opening%20viewing%20and%20removing%20sounds.mp4
+
+## Test yourself
 
 
-##Test yourself
-
-Once you are ready, you can download and test your new-found Praat skills using the files zipped below.
+Once you are ready, you can download and test your new-found Praat skills using this TextGrid and this Sound file.
 
 1. Open the wav and the TextGrid files.
 2. View the sound and the TextGrid together and listen to the sound.
