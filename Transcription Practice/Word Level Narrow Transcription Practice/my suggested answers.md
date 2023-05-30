@@ -2,7 +2,7 @@ Simulated Disordered Speech
 ===========================
 Note, that it is difficult to get authentic samples of disordered speech since there are ethics and rights issues regarding access to and the distribution of recordings of vulnerable populations. People with speech disorders often belong to such groups. The use of simulated speech is one way of providing future Speech and Language Therapists the opportunity to practise their transcription skills so that they are better prepared to support individuals with speech disorders in clinical practice.
 
-| #  | word | suggested answer
+|:#  |:word |:suggested answe\r |
 |----|------|----------------
 | 01 | Carriage | [ˈtʰaʋɪdʒ̊] |
 | 02 | Ballgown | [ˈɓɒk’aʊ̃]/ [ˈmɓɒk’aʊ̃] |
@@ -19,7 +19,7 @@ Normal Speech
 =============
 Note that the Dublin (Dub), General American (GenAm) and RP (received pronunciation) utterances are approximations of each accent. Only the northern Irish English is authentic.
 
-| #  | word | suggested answer |
+|:#  |:word |:suggested answer |
 |----|------|----------------|
 | 01 | exacted (nIE) | [ɪgˈzak̚dɪd̥] |
 | 02 | scribble (nIE) | [ˈskɹɪbl̩]/[ˈskɹɪbəl] |
@@ -29,7 +29,7 @@ Note that the Dublin (Dub), General American (GenAm) and RP (received pronunciat
 | 06 | shudder (Dub) | [ˈʃʊdɚ] |
 | 07 | polyglot (GenAm) | [ˈpʰɑliɡlɑt̚] |
 | 08 | leisurely (GenAm) | [ˈliʒɚli] |
-| 09 | undermined (RP) [ʌ̈̃ndə̃ˈmaɪ̃nd̥] |
+| 09 | undermined (RP) | [ʌ̈̃ndə̃ˈmaɪ̃nd̥] |
 | 10 | spiral (RP) | [ˈsp=aɪɹɫ̩] |
 | 11 | issued (RP) | [ˈɪsjud̥] |
 
