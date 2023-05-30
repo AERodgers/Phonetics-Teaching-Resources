@@ -18,7 +18,7 @@ Suggested answers:
 | 15. | /pɑm/           | /pɑːm/ (ELT convention)                                       |
 | 16. | /kɒʊt/          |                                                               |
 | 17. | /fɑ/            | pr /faː/ (ELT convention)                                     |
-| 18. | /̪tɪk/           | (contrastive with /t/ in sIE, not a fricative)                |
+| 18. | /t̪ɪk/           | (contrastive with /t/ in sIE, not a fricative)                |
 | 19. | /skʌlpt/        |                                                               |
 | 20. | /bʊs/           | or /bʌs/ /ʊ/ preferred, but there is not FOOT/STRUT contrast) |
 | 21. | /hæɹi/          |                                                               |
