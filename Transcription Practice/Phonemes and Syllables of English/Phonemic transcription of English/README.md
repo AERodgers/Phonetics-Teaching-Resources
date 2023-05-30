@@ -1,4 +1,10 @@
-Suggested answers:
+# Phonemic Transcription of English
+
+In the recordings, 1-13 are nonsense words. 14-22 are real words realised in different accents.
+For 14-22, you should try to identify the variety of English and use a phonemic inventory which reflect the distribution of sounds for that variety.
+
+<details>
+<summary>Suggested answers</summary>
 
 | #  | suggested answer | comment                                                       |
 |---:|-----------------:|---------------------------------------------------------------|
@@ -23,3 +29,5 @@ Suggested answers:
 | 20. | /bʊs/           | or /bʌs/ /ʊ/ preferred, but there is not FOOT/STRUT contrast) |
 | 21. | /hæɹi/          |                                                               |
 | 22. | /bʌtəɹ/         | or /bʌtɚ/ (if rhotic schwa is treated as a phoneme)           |
+
+</details>
