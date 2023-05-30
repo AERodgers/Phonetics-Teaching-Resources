@@ -2,7 +2,7 @@ Simulated Disordered Speech
 ===========================
 Note, that it is difficult to get authentic samples of disordered speech since there are ethics and rights issues regarding access to and the distribution of recordings of vulnerable populations. People with speech disorders often belong to such groups. The use of simulated speech is one way of providing future Speech and Language Therapists the opportunity to practise their transcription skills so that they are better prepared to support individuals with speech disorders in clinical practice.
 
-|:#  |:word |:suggested answe\r |
+|:#  |:word |:suggested answer |
 |----|------|----------------
 | 01 | Carriage | [ˈtʰaʋɪdʒ̊] |
 | 02 | Ballgown | [ˈɓɒk’aʊ̃]/ [ˈmɓɒk’aʊ̃] |
