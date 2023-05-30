@@ -1,6 +1,9 @@
-Simulated Disordered Speech
-===========================
+## Simulated Disordered Speech
+
 Note, that it is difficult to get authentic samples of disordered speech since there are ethics and rights issues regarding access to and the distribution of recordings of vulnerable populations. People with speech disorders often belong to such groups. The use of simulated speech is one way of providing future Speech and Language Therapists the opportunity to practise their transcription skills so that they are better prepared to support individuals with speech disorders in clinical practice.
+
+<details>
+<summary> Suggested answers </summary>
 
 | #  | word         | suggested answer                |
 |----|--------------|---------------------------------|
@@ -15,9 +18,14 @@ Note, that it is difficult to get authentic samples of disordered speech since t
 | 09 | Handsome (1) | [ˈhæ̃ŋsʌ̃ŋ]                       |
 | 10 | Handsome (2) | [ˈædzəb]                        |
 
-Normal Speech
-=============
+</details>  
+  
+## Normal Speech
+
 Note that the Dublin (Dub), General American (GenAm) and RP (received pronunciation) utterances are approximations of each accent. Only the northern Irish English is authentic.
+  
+<details>
+<summary> Suggested answers </summary>
 
 | #  | word              | suggested answer           |
 |----|-------------------|----------------------------|
@@ -33,5 +41,7 @@ Note that the Dublin (Dub), General American (GenAm) and RP (received pronunciat
 | 10 | spiral (RP)       | [ˈsp=aɪɹɫ̩]                 |
 | 11 | issued (RP)       | [ˈɪsjud̥]                   |
 
+</details>  
+  
 Recordings and suggested answers provided by Antoin Rodgers under
 Creative Commons Attribution-ShareAlike 4.0 License
