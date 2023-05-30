@@ -31,7 +31,7 @@ Note that the Dublin (Dub), General American (GenAm) and RP (received pronunciat
 |----|-------------------|----------------------------|
 | 01 | exacted (nIE)     | [ɪgˈzak̚dɪd̥]                |
 | 02 | scribble (nIE)    | [ˈskɹɪbl̩]/[ˈskɹɪbəl]       |
-| 03 | speaking (nIE)    | [ˈsp=ik̟ɪ̃ŋ]                 |
+| 03 | speaking (nIE)    | [ˈsp<sup>=</sup>ik̟ɪ̃ŋ]                 |
 | 04 | buttery (Dub)     | [ˈbʊt̞əɹi]                  |
 | 05 | pyjamas (Dub)     | [pə̥ˈdʒaməz] / [pə̥ˈdʒaməz͡z̥] |
 | 06 | shudder (Dub)     | [ˈʃʊdɚ]                    |
